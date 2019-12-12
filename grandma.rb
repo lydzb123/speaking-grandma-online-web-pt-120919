@@ -9,7 +9,7 @@ def speak_to_grandma(string)
   end
 end
 
-puts peak_to_grandma("hey")
+puts speak_to_grandma("hey")
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
